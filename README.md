@@ -13,3 +13,4 @@ Zusätzlich zu den .pdf-Varianten der Bauanleitung und der Projektdokumentation 
 Bauanleitung: https://de.overleaf.com/read/rbvrqmyprjpc
 
 Projektdokumentation: https://de.overleaf.com/read/dvmrvychqrgd
+![komplett oben](https://github.com/BlxxkVEC/DeltaRoboter_mit_Arduinosteuerung/assets/144335994/ff89b61b-bf4a-4379-86a3-d7e0b05f819b)
