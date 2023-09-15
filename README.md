@@ -8,9 +8,9 @@ In diesem Repository sind alle Informationen und Dateien zu finden, um einen Del
 
 Der Ordner "Originaldateien von B&R" enthält alle Informationen und Dateien, welche wir anfangs von B&R erhalten haben, auf Grundlage derer der Roboter und dieses Projekt entstanden ist. Der Ordner enthält die originalen 3D-Modelle (wir haben diese umgearbeitet und Neue hinzugefügt), Zeichnungen von Bauteilen und die Bauanleitung, sowie den Guide für die Software.
 
-Zusätzlich zu den .pdf-Varianten der Bauanleitung und der Projektdokumentation sind hier auch die Links zum Anschauen der Dateien in Overleaf:
+Zusätzlich zu den .pdf-Varianten des Belegs und der Projektdokumentation sind hier auch die Links zum Anschauen der Dateien in Overleaf:
 
-Bauanleitung: https://de.overleaf.com/read/rbvrqmyprjpc
+Projektdokumentation (Bauanleitung): https://de.overleaf.com/read/rbvrqmyprjpc
 
-Projektdokumentation: https://de.overleaf.com/read/dvmrvychqrgd
+Beleg: https://de.overleaf.com/read/dvmrvychqrgd
 ![komplett oben](https://github.com/BlxxkVEC/DeltaRoboter_mit_Arduinosteuerung/assets/144335994/ff89b61b-bf4a-4379-86a3-d7e0b05f819b)
